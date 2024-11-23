@@ -34,5 +34,5 @@ Business Analytics Project-Ready Dataset
 -------------------------------------------------
 
 ## Repository
-GitHub Repository Link: https://github.com/Ehnkay-Bassie/BAN6800_Milestone1.git 
+* GitHub Repository Link: https://github.com/Ehnkay-Bassie/BAN6800_Milestone1.git 
 -----------------------------------------------------------------
