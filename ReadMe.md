@@ -1,5 +1,4 @@
-# Project Title:  
-Business Analytics Project-Ready Dataset
+# Project Title: Business Analytics Project-Ready Dataset
 ------------------------------------------
 
 ## Project Overview
