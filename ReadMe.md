@@ -32,7 +32,6 @@
 - Scaling: sklearn.preprocessing.MinMaxScaler
 -------------------------------------------------
 
-## Repositories
-* https://github.com/Ehnkay-Bassie/BAN6800_Module4Assignment.git #This Module 4 Assignment Github repository link
-* https://github.com/Ehnkay-Bassie/BAN6800_Milestone1.git #Previous Milestone 1 Assignment link containing the exploratory python notebook used in preparing the initial dataset.
+## Repository
+* GitHub Repository Link: https://github.com/Ehnkay-Bassie/BAN6800_Milestone1.git 
 -----------------------------------------------------------------
